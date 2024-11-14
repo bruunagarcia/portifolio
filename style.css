@@ -29,3 +29,6 @@ a:hover{
     color: var(--cor-destaque);
 }
 
+.rounded-circle {
+    object-fit: cover;
+}
